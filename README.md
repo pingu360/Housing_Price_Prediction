@@ -1,2 +1,3 @@
 # Housing_Price_Prediction
-In this project, I used feature selection methods to filter out the numeric and categorical features which are most relevant to the housing price, and fitting these to a linear regression model. Although the model can only win 50% of other Kaggle competitors, it is quite interpretable.
+In this project, I employed feature selection methods to identify the most relevant numeric and categorical features affecting housing prices, and then applied them to a linear regression model. While the model's performance ranks at only 50% compared to other Kaggle competitors, it remains highly interpretable.
+
